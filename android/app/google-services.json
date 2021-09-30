@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076855645089",
+    "project_id": "bus-tracker-459c4",
+    "storage_bucket": "bus-tracker-459c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076855645089:android:6804b2ac8bd12f566421e0",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076855645089-aren2kipcp7a31lrnunceib9rtfg7djd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bus_tracker",
+            "certificate_hash": "fc66466a8dbeadb160b2252352cc6a3ba74fc444"
+          }
+        },
+        {
+          "client_id": "1076855645089-c8bgnemkhpbld52faq5ep6avh4aignm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6yQuOgif0qe6RwL5zK8nOligLDnU_7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076855645089-c8bgnemkhpbld52faq5ep6avh4aignm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
